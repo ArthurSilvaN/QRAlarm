@@ -1,4 +1,4 @@
-package com.example.qralarm
+package cn.com.liaozp.alarmclock
 
 import org.junit.Test
 

@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">QRAlarm</string>
+    <string name="app_name">QrAlarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_set_clock">Set Clock</string>
+    <string name="str_save">Save</string>
+    <string name="str_delete">Delete</string>
 </resources>
