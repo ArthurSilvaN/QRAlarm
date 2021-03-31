@@ -1,26 +1,21 @@
 package cn.com.liaozp.alarmclock
 
 import android.app.ProgressDialog
-import android.database.DatabaseUtils
 import android.os.Bundle
 import android.support.v7.widget.CardView
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
 import android.view.View
-import cn.com.liaozp.alarmclock.xutils.db.DbTool
-import cn.com.liaozp.alarmclock.xutils.db.T_ALARM_CLOCK
+import cn.com.liaozp.alarmclock.utils.db.DbTool
+import cn.com.liaozp.alarmclock.utils.db.T_ALARM_CLOCK
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.layout_toolbar.*
 import android.widget.TextView
 import android.support.v7.widget.RecyclerView.ViewHolder
 import android.view.LayoutInflater
 import android.view.ViewGroup
-import android.widget.ProgressBar
 import android.widget.Switch
-import android.widget.Toast
-import cn.com.liaozp.alarmclock.xutils.db.Tables
 import org.jetbrains.anko.*
-import org.xutils.db.table.DbBase
 
 
 class MainActivity : BasicActivity() {

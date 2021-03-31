@@ -1,4 +1,4 @@
-package cn.com.liaozp.alarmclock.xutils.db
+package cn.com.liaozp.alarmclock.utils.db
 
 import android.media.RingtoneManager
 import android.os.Parcelable

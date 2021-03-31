@@ -1,9 +1,8 @@
-package cn.com.liaozp.alarmclock.xutils.db
+package cn.com.liaozp.alarmclock.utils.db
 
 import android.text.TextUtils
 import org.xutils.DbManager
 import org.xutils.db.sqlite.SqlInfoBuilder
-import org.xutils.db.table.DbBase
 import org.xutils.db.table.TableEntity
 import org.xutils.ex.DbException
 import org.xutils.x

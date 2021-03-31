@@ -1,4 +1,4 @@
-package cn.com.liaozp.alarmclock.xutils.db
+package cn.com.liaozp.alarmclock.utils.db
 
 enum class Tables(val tablepath:String){
 

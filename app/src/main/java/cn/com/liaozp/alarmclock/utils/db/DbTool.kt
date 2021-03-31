@@ -1,9 +1,8 @@
-package cn.com.liaozp.alarmclock.xutils.db
+package cn.com.liaozp.alarmclock.utils.db
 
 import org.xutils.ex.DbException
 import org.xutils.DbManager
 import org.xutils.x
-import org.xutils.db.Selector;
 
 
 class DbTool {

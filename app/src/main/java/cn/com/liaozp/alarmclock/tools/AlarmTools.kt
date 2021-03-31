@@ -7,7 +7,7 @@ import android.content.Intent
 import cn.com.liaozp.alarmclock.AlockApp
 import cn.com.liaozp.alarmclock.AlarmReceiver
 import cn.com.liaozp.alarmclock.SetClockActivity
-import cn.com.liaozp.alarmclock.xutils.db.T_ALARM_CLOCK
+import cn.com.liaozp.alarmclock.utils.db.T_ALARM_CLOCK
 import java.util.*
 
 class AlarmTools {

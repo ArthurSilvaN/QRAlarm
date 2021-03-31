@@ -1,4 +1,4 @@
-package cn.com.liaozp.alarmclock.xutils.http
+package cn.com.liaozp.alarmclock.utils.http
 
 import cn.com.liaozp.alarmclock.tools.JsonTools
 import org.json.JSONArray
